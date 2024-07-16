@@ -6,7 +6,6 @@
 
 .container {
   max-width: 80%;
-  min-height: 100vh;
   padding: 2rem 0;
   margin: auto;
   display: grid;
@@ -16,7 +15,7 @@
 
 .card {
   background: #b9b9b9;
-  min-height: 5rem;
+  min-height: 270px;
   padding: 10px;
   border-radius: 10px;
   display: flex;

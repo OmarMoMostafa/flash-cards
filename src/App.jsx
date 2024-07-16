@@ -18,8 +18,8 @@ const questions = [
     answer: "no I can't",
   },
   {
-    question: "are you hhhh",
-    answer: "Yes I am",
+    question: "do you play football",
+    answer: "Yes I do",
   },
 ];
 
